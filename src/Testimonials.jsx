@@ -15,7 +15,7 @@ const testimonials = [
   {
     name: "Sneha Kapoor",
     role: "Social Media Manager",
-    review: "Loved working with her! The reels and Instagram creatives were vibrant, trendy, and exactly what we needed for our campaign.",
+    review: "Loved working with him! The reels and Instagram creatives were vibrant, trendy, and exactly what we needed for our campaign.",
     img: client2
   },
   {
